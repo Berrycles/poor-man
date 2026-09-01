@@ -13,6 +13,7 @@ public class BasketballPlayer {
 	/**
 	 * The number of free throws attempted.
 	 */
+	private int[] pay;
 	private int[] numbers;
 //	private int freeThrowsAttempted = 0;
 	private int freeThrowsAttempted;
